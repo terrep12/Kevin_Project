@@ -1,0 +1,96 @@
+[04-May-2025 23:10:55 UTC] PHP Warning:  fopen(logo_empresa.png): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1256
+[04-May-2025 23:10:55 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo_empresa.png in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1258): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsepng()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(38): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:10:58 UTC] PHP Warning:  fopen(logo_empresa.png): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1256
+[04-May-2025 23:10:58 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo_empresa.png in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1258): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsepng()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(38): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:11:00 UTC] PHP Warning:  fopen(logo_empresa.png): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1256
+[04-May-2025 23:11:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo_empresa.png in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1258): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsepng()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(38): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:11:01 UTC] PHP Warning:  fopen(logo_empresa.png): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1256
+[04-May-2025 23:11:01 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Can't open image file: logo_empresa.png in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1258): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsepng()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(38): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:12:00 UTC] PHP Warning:  getimagesize(logo.jpg): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1237
+[04-May-2025 23:12:00 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: logo.jpg in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1239): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsejpg()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(38): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:16:48 UTC] PHP Warning:  getimagesize(logo.jpg): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1237
+[04-May-2025 23:16:48 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: logo.jpg in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1239): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsejpg()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(37): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:18:12 UTC] PHP Warning:  getimagesize(logo.jpg): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1237
+[04-May-2025 23:18:12 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: logo.jpg in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1239): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsejpg()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(46): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:18:17 UTC] PHP Warning:  getimagesize(logo.jpg): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1237
+[04-May-2025 23:18:17 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: logo.jpg in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1239): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsejpg()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(46): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:19:40 UTC] PHP Warning:  getimagesize(logo.jpg): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1237
+[04-May-2025 23:19:40 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: logo.jpg in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1239): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsejpg()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(49): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:19:46 UTC] PHP Warning:  getimagesize(logo.jpg): Failed to open stream: No such file or directory in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 1237
+[04-May-2025 23:19:46 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: logo.jpg in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(1239): FPDF->Error()
+#1 /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php(885): FPDF->_parsejpg()
+#2 /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php(49): FPDF->Image()
+#3 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/fpdf/fpdf.php on line 271
+[04-May-2025 23:29:45 UTC] PHP Fatal error:  Uncaught Error: Call to protected method FPDF::_endpage() from global scope in /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php on line 105
+[04-May-2025 23:29:47 UTC] PHP Fatal error:  Uncaught Error: Call to protected method FPDF::_endpage() from global scope in /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php on line 105
+[04-May-2025 23:43:41 UTC] PHP Fatal error:  Uncaught Error: Cannot access protected property FPDF::$bMargin in /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php on line 114
+[04-May-2025 23:43:49 UTC] PHP Fatal error:  Uncaught Error: Cannot access protected property FPDF::$bMargin in /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/maexspec/sistema.maexspe.com/sistema/factura/generaFactura.php on line 114
